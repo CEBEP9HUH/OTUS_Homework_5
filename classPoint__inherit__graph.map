@@ -1,0 +1,4 @@
+<map id="Point" name="Point">
+<area shape="rect" id="node2" href="$classIRotatable.html" title="IRotatable is an abstract class which must be inherited by every rotatable object&#39;s class..." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node3" href="$classIMovable.html" title="IMovable is an abstract class which must be inherited by every movable object&#39;s class. " alt="" coords="118,5,199,32"/>
+</map>

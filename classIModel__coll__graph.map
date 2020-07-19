@@ -1,0 +1,7 @@
+<map id="IModel" name="IModel">
+<area shape="rect" id="node2" href="$classIShape2D.html" title="IShape2D is an abstract class which must be inherited by every class which implements primitive for d..." alt="" coords="174,81,258,108"/>
+<area shape="rect" id="node3" href="$classIDrawable.html" title="IDrawable is an abstract class which must be inherited by every drawable object&#39;s class..." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node4" href="$classIRotatable.html" title="IRotatable is an abstract class which must be inherited by every rotatable object&#39;s class..." alt="" coords="117,5,205,32"/>
+<area shape="rect" id="node5" href="$classIScalable.html" title="IScalable is an abstract class which must be inherited by every scalable object&#39;s class..." alt="" coords="230,5,311,32"/>
+<area shape="rect" id="node6" href="$classIMovable.html" title="IMovable is an abstract class which must be inherited by every movable object&#39;s class. " alt="" coords="335,5,417,32"/>
+</map>

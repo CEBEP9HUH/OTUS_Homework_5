@@ -1,0 +1,8 @@
+<map id="/home/travis/build/CEBEP9HUH/OTUS_Homework_5/include/mvc/interfaces/IModel.h" name="/home/travis/build/CEBEP9HUH/OTUS_Homework_5/include/mvc/interfaces/IModel.h">
+<area shape="rect" id="node4" href="$IShape_8h.html" title="IShape.h" alt="" coords="243,124,322,151"/>
+<area shape="rect" id="node5" href="$IDrawable_8h.html" title="IDrawable.h" alt="" coords="49,199,149,225"/>
+<area shape="rect" id="node8" href="$IRotatable_8h.html" title="IRotatable.h" alt="" coords="173,199,273,225"/>
+<area shape="rect" id="node9" href="$IScalable_8h.html" title="IScalable.h" alt="" coords="297,199,391,225"/>
+<area shape="rect" id="node10" href="$IMovable_8h.html" title="IMovable.h" alt="" coords="415,199,508,225"/>
+<area shape="rect" id="node7" href="$Context_8h.html" title="Context.h" alt="" coords="109,273,195,300"/>
+</map>

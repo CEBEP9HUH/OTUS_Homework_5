@@ -1,0 +1,4 @@
+<map id="IUI" name="IUI">
+<area shape="rect" id="node2" href="$classIUIWithController.html" title="IUIWithController is an abstract class which adds abbility to get Controller for UI class..." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$classUI.html" title="UI is a class which responsible for get all user&#39;s commands and send it to Model (by Controller) ..." alt="" coords="53,155,92,181"/>
+</map>

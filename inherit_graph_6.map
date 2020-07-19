@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIHasController.html" title="IHasController is an abstract class which you have to inherit from in yours implementation of Model a..." alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$classIModelWithController.html" title="IModelWithController is an abstract class which adds abbility to get Controller for Model class..." alt="" coords="168,31,327,57"/>
+<area shape="rect" id="node4" href="$classIUIWithController.html" title="IUIWithController is an abstract class which adds abbility to get Controller for UI class..." alt="" coords="180,93,315,120"/>
+<area shape="rect" id="node3" href="$classModel.html" title="Model is a class which responsible for execution all user&#39;s commands. " alt="" coords="375,31,436,57"/>
+<area shape="rect" id="node5" href="$classUI.html" title="UI is a class which responsible for get all user&#39;s commands and send it to Model (by Controller) ..." alt="" coords="386,93,425,120"/>
+<area shape="rect" id="node6" href="$classIModel.html" title="IModel is an abstract class which provides you required minimum to create Model. " alt="" coords="30,5,95,32"/>
+<area shape="rect" id="node7" href="$classIUI.html" title="IUI is an abstract class which provides you required minimum to create UI class. " alt="" coords="43,107,83,133"/>
+</map>

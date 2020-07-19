@@ -1,0 +1,6 @@
+<map id="IHasController" name="IHasController">
+<area shape="rect" id="node2" href="$classIModelWithController.html" title="IModelWithController is an abstract class which adds abbility to get Controller for Model class..." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node4" href="$classIUIWithController.html" title="IUIWithController is an abstract class which adds abbility to get Controller for UI class..." alt="" coords="188,80,323,107"/>
+<area shape="rect" id="node3" href="$classModel.html" title="Model is a class which responsible for execution all user&#39;s commands. " alt="" coords="54,155,115,181"/>
+<area shape="rect" id="node5" href="$classUI.html" title="UI is a class which responsible for get all user&#39;s commands and send it to Model (by Controller) ..." alt="" coords="236,155,275,181"/>
+</map>

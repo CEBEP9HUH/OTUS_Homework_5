@@ -1,0 +1,9 @@
+<map id="/home/travis/build/CEBEP9HUH/OTUS_Homework_5/include/primitives/interfaces/IRectangle.h" name="/home/travis/build/CEBEP9HUH/OTUS_Homework_5/include/primitives/interfaces/IRectangle.h">
+<area shape="rect" id="node3" href="$Point_8h.html" title="Point.h" alt="" coords="110,124,177,151"/>
+<area shape="rect" id="node7" href="$IShape_8h.html" title="IShape.h" alt="" coords="213,124,292,151"/>
+<area shape="rect" id="node5" href="$IRotatable_8h.html" title="IRotatable.h" alt="" coords="203,199,303,225"/>
+<area shape="rect" id="node6" href="$IMovable_8h.html" title="IMovable.h" alt="" coords="85,199,178,225"/>
+<area shape="rect" id="node8" href="$IDrawable_8h.html" title="IDrawable.h" alt="" coords="445,199,545,225"/>
+<area shape="rect" id="node11" href="$IScalable_8h.html" title="IScalable.h" alt="" coords="327,199,421,225"/>
+<area shape="rect" id="node10" href="$Context_8h.html" title="Context.h" alt="" coords="506,273,591,300"/>
+</map>

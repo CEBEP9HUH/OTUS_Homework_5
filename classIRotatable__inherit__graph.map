@@ -1,0 +1,9 @@
+<map id="IRotatable" name="IRotatable">
+<area shape="rect" id="node2" href="$classIShape2D.html" title="IShape2D is an abstract class which must be inherited by every class which implements primitive for d..." alt="" coords="91,80,175,107"/>
+<area shape="rect" id="node8" href="$classPoint.html" title="Point is a class for create a point as which can be moved or ratated. " alt="" coords="199,80,254,107"/>
+<area shape="rect" id="node3" href="$classCircle.html" title="Circle is a class for create a circle for drawing it on canvas. " alt="" coords="5,155,64,181"/>
+<area shape="rect" id="node4" href="$classIRectangle.html" title="IRectangle is an abstract class which must be inherited by every class which implements closed shape ..." alt="" coords="88,155,179,181"/>
+<area shape="rect" id="node7" href="$classLine.html" title="Line is a class for create a line for drawing it on canvas. " alt="" coords="203,155,253,181"/>
+<area shape="rect" id="node5" href="$classRectangle.html" title="Rectangle is a class for create a rectangle for drawing it on canvas. " alt="" coords="39,229,126,256"/>
+<area shape="rect" id="node6" href="$classSquare.html" title="Square is a class for create a square for drawing it on canvas. " alt="" coords="151,229,217,256"/>
+</map>

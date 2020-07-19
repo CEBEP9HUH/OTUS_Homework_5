@@ -1,0 +1,5 @@
+<map id="IUIWithController" name="IUIWithController">
+<area shape="rect" id="node2" href="$classIUI.html" title="IUI is an abstract class which provides you required minimum to create UI class. " alt="" coords="19,95,59,121"/>
+<area shape="rect" id="node3" href="$classIHasController.html" title="IHasController is an abstract class which you have to inherit from in yours implementation of Model a..." alt="" coords="83,95,198,121"/>
+<area shape="rect" id="node4" href="$classIController.html" title="IController is an abstract class which defines pure virtual functions you have to realise to create y..." alt="" coords="95,5,186,32"/>
+</map>

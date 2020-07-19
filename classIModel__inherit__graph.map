@@ -1,0 +1,4 @@
+<map id="IModel" name="IModel">
+<area shape="rect" id="node2" href="$classIModelWithController.html" title="IModelWithController is an abstract class which adds abbility to get Controller for Model class..." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$classModel.html" title="Model is a class which responsible for execution all user&#39;s commands. " alt="" coords="54,155,115,181"/>
+</map>
