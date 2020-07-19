@@ -41,7 +41,7 @@ else()
     )
 endif()
 
-install(TARGETS print_ip RUNTIME DESTINATION bin)
+install(TARGETS ${PROJ_NAME} RUNTIME DESTINATION bin)
 
 set(CPACK_GENERATOR DEB)
 
@@ -59,6 +59,6 @@ set(DOXYGEN_OUTPUT_DIRECTORY)
 set(DOXYGEN_PROJECT_NUMBER ${VERSION})
 set(DOXYGEN_HAVE_DOT YES)
 set(DOXYGEN_EXTRACT_ALL YES)
-doxygen_add_docs(painter_doc
+doxygen_add_docs(${PROJ_NAME}_doc
     ${INCLUDE} ${SOURCE} 
 )
